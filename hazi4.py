@@ -1,4 +1,3 @@
-
 #caesar kodolas
 def caesar(text):
     decode = ""

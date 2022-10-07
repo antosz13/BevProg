@@ -29,7 +29,7 @@ def bindec(num):
     print((num % 2), end = '')
     if num == 0:
         return print("vege")
-    return bindec(num/2)
+    return bindec(num//2)
     
 
 

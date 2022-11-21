@@ -1,0 +1,15 @@
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\bin\Debug\net6.0\hazi9cs.exe
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\bin\Debug\net6.0\hazi9cs.deps.json
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\bin\Debug\net6.0\hazi9cs.runtimeconfig.json
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\bin\Debug\net6.0\hazi9cs.dll
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\bin\Debug\net6.0\hazi9cs.pdb
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.csproj.AssemblyReference.cache
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.AssemblyInfoInputs.cache
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.AssemblyInfo.cs
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.csproj.CoreCompileInputs.cache
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.dll
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\refint\hazi9cs.dll
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.pdb
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\hazi9cs.genruntimeconfig.cache
+C:\Users\hodos\Desktop\Bevezetés a Programozásba\BevProg\hazi9cs\obj\Debug\net6.0\ref\hazi9cs.dll

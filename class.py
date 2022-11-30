@@ -12,11 +12,12 @@ class Bankszamla:
         else:
             self.egyenleg -= osszeg
     def kiiras(self):
-        print("tulaj: {1}, osszeg: {2}".format(self.nev, self.egyenleg))
+        print("tulaj: {0}, osszeg: {1}".format(self.nev, self.egyenleg))
         
 def main():
     b1 = Bankszamla("Jani", 600)
-    b1.kivesz(1000)
+    b1.kivesz(200)
+    b1.kiiras()
 
 
 if __name__ == "__main__":

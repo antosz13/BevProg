@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 def main():
 #?pi vers?    
     with open("pivers.txt", "r") as f, open("masikfajl.txt", "w") as f2:

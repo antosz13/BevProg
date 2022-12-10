@@ -10,10 +10,13 @@ int db = int.Parse(Console.ReadLine());
 StreamWriter sw = new StreamWriter(path, true);
 for (int i = 0; i < db; i++)
 {
+
     Console.WriteLine("Adja meg az ember nevét: ");
     string a = Console.ReadLine();
+
     Console.WriteLine("Adja meg az ember korát: ");
     int b = int.Parse(Console.ReadLine());
+
     Console.WriteLine("Adja meg az ember nemét: ");
     string c = Console.ReadLine();
 

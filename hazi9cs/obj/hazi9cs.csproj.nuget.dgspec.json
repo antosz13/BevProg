@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\hazi9cs.csproj": {}
+    "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\hazi9cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\hazi9cs.csproj": {
+    "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\hazi9cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\hazi9cs.csproj",
+        "projectUniqueName": "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\hazi9cs.csproj",
         "projectName": "hazi9cs",
-        "projectPath": "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\hazi9cs.csproj",
-        "packagesPath": "C:\\Users\\hodos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\obj\\",
+        "projectPath": "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\hazi9cs.csproj",
+        "packagesPath": "C:\\Users\\Antosz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hodos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Antosz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

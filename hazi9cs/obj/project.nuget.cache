@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Pvj0kZknWGqgu6ELE+ADbqYSuqjACZvw1emhf0MWNSgFH6VcAMUmpI1fEURk3uM6tzkf7hr5RI3dvbc6b5hVdg==",
+  "dgSpecHash": "0LND7Z6eLUA5jaiStKG+FQ5RZImXmA/OpsZI1q7Ekia/ldqLxPWn5aiWTm83aJSHfIdtBeIE7CFNFZ09CFH5/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hodos\\Desktop\\Bevezetés a Programozásba\\BevProg\\hazi9cs\\hazi9cs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Antosz\\Desktop\\BevProg\\hazi9cs\\hazi9cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

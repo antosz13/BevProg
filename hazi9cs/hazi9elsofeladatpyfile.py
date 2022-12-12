@@ -10,11 +10,17 @@ class Ember:
         print("neve: {0}, kora: {1}, neme: {2}".format(self.nev, self.kor, self.nem))
 
 def main():
+    
     pathdesk = os.path.normpath(os.path.expanduser("~/Desktop"))
     path = pathdesk + "\kozos.txt"
-    print(path)
-    f = open(path, 'r')
-    li = f.readlines()
+    # print(path)
+    li = []
+    try: 
+        f = open(path, 'r')
+        li = f.readlines()
+    except FileNotFoundError:
+        print("Nincs ember az adatbázisban!")
+
     
     if len(li) > 0:
         for i in range(len(li)):
@@ -25,7 +31,6 @@ def main():
                 
             else:
                 continue
-    else:
-        print("Nincs ember az adatbázisban!")
+
 if __name__ == "__main__":
     main()
